@@ -10,9 +10,9 @@ This simple app demonstrates the use of input fields to select a color according
 # Demo
 
 
+https://user-images.githubusercontent.com/24371316/126687062-53227c57-09ff-4d9c-8ca4-9d6928c966be.mp4
 
 
-https://user-images.githubusercontent.com/24371316/126686476-5d77eafe-4b50-4269-a264-4c311d6a0c56.mp4
 
 
 
