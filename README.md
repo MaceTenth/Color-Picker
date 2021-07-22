@@ -11,7 +11,11 @@ This simple app demonstrates the use of input fields to select a color according
 
 
 
-https://user-images.githubusercontent.com/24371316/126684377-c24b8b54-90fb-4b8d-af82-09592bf754e2.mp4
+
+
+https://user-images.githubusercontent.com/24371316/126684644-8f7f0feb-0fed-4191-bbf4-f09a4e55cc19.mp4
+
+
 
 
 
