@@ -46,3 +46,21 @@ h1 {
   margin: 50px auto;
   color: azure;
 }
+
+@media screen and (min-width: 300px) {
+  h1 {
+    width: 100%;
+  }
+  body {
+    background-color: black;
+    width: 360px;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .slider {
+    width: 80%;
+  }
+}
