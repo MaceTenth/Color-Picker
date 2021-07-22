@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Dynamic Color Picker</h1>
+    <div class="container">
+      <div class="ranges">
+        <label for="red">Red</label>
+        <input
+          type="range"
+          min="0"
+          max="255"
+          value="50"
+          class="slider"
+          id="red"
+        />
+        <label for="green">Green</label>
+        <input
+          type="range"
+          min="0"
+          max="255"
+          value="50"
+          class="slider"
+          id="green"
+        />
+        <label for="blue">Blue</label>
+        <input
+          type="range"
+          min="0"
+          max="255"
+          value="50"
+          class="slider"
+          id="blue"
+        />
+        <label for="opacity">Opacity</label>
+        <input
+          type="range"
+          min="1"
+          max="100"
+          value="1"
+          class="slider"
+          id="opacity"
+        />
+        <p>Current Color Value:</p>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
