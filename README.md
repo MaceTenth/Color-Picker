@@ -11,6 +11,11 @@ This simple app demonstrates the use of input fields to select a color according
 
 
 
+https://user-images.githubusercontent.com/24371316/126684377-c24b8b54-90fb-4b8d-af82-09592bf754e2.mp4
+
+
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Input Event]: <https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/input_event>
