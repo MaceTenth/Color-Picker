@@ -4,7 +4,7 @@ This simple app demonstrates the use of input fields to select a color according
 
 
 - Input event [Input Event]
-- Cahnge event [Change Event]
+- Change event [Change Event]
 
 
 # Demo
