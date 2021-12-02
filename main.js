@@ -4,7 +4,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
   let container = document.querySelector(".container");
 
   let colorValue = document.querySelector("p");
-
+	#values
   let values = {
     red: 255,
     green: 255,
